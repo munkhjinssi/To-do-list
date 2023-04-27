@@ -1,0 +1,15 @@
+.Navbar{
+    width: 100%;
+    height: 50px; 
+    color:#c51f5d;   
+    
+} 
+h4{ 
+    font-weight:Bold; 
+    padding: 8px; 
+} 
+ul{ 
+    display: flex; 
+    flex-direction: row;  
+    list-style-type: none;
+} 
